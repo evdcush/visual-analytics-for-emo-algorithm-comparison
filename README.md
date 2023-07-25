@@ -2,10 +2,10 @@
 
 A united solution for analyzing evolutionary processes with comparative visual analytics methods.
 
-## Timeline
+<!-- ## Timeline
 
 - **25/07/2023**: Code for the framework has been released.
-- **15/07/2023**: The paper was accepted by IEEE VIS 2023!
+- **15/07/2023**: The paper was accepted by IEEE VIS 2023! -->
 
 ## Introduction
 
@@ -32,6 +32,6 @@ If you use or mention this work in your research, please consider the following 
 }
 ```
 
-## License
+<!-- ## License
 
-This repository is released under the **[UNDEFINED]** license as found in the [LICENSE](https://github.com/VIS-SUSTech/comparative-visual-analytics-for-evolutionary-processes/LICENSE) file.
+This repository is released under the **[UNDEFINED]** license as found in the [LICENSE](https://github.com/VIS-SUSTech/comparative-visual-analytics-for-evolutionary-processes/LICENSE) file. -->
