@@ -1,6 +1,6 @@
 # VisSystem Frontend
 
-The frontend service of comparative visual analytics for evolutionary processes. Programming in Python language.
+The frontend service of comparative visual analytics for evolutionary processes. Programming in JavaScript language with Vue3 framework.
 
 ## Environment Requirement
 
