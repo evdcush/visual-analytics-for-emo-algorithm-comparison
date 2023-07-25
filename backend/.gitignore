@@ -1,0 +1,11 @@
+# Virtual environment
+server
+
+# Useless Data
+data/*
+!data/calc.py
+!data/convert.py
+!data/similarity.py
+
+# Python caches
+**/__pycache__
