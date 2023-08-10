@@ -19,7 +19,7 @@ For deploying the frontend service, please refer to the [README file of frontend
 
 For deploying the backend server, please refer to the [README file of backend](./backend).
 
-## Citation
+<!-- ## Citation
 
 If you use or mention this work in your research, please consider the following BibTeX entry:
 
@@ -30,7 +30,7 @@ If you use or mention this work in your research, please consider the following 
   booktitle={xxxxxxxxxxxxxx},
   year={2023}
 }
-```
+``` -->
 
 <!-- ## License
 
